@@ -1,2 +1,0 @@
-# mbf
-Multi bruteforce facebook
